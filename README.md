@@ -1,5 +1,16 @@
 # TRANCE STACK [![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@main/badge/badge-storybook.svg)](https://meza.github.io/trance-stack/)
 
+## Abandoned - 2025 Oct. 27.
+
+I had a lot of fun making this stack and I don't regret spending 2 sleepless weeks on riding a hyperfocus high.
+However my needs have changed and so has Remix (2x since making this stack).
+
+I've parted ways with Remix and have no desire to carry this project on.
+
+If anyone would like to pick it up and maintain it, please send me a ping on [twitter](https://x.com/vsbmeza) 
+
+---
+
 <!-- initremove:begin -->
 > **Warning**
 > **This stack is typescript and NPM only for now.**
